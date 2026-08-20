@@ -485,23 +485,14 @@ Random State: 42
 
 **Deployment Link:**
 
-> 🔗 **[ADD YOUR DEPLOYMENT LINK HERE]**
+> 🔗 ** https://house-price-using-flask.onrender.com**
 
-Example:
-
-```text
-https://your-house-price-app.onrender.com
-```
-
-Once the application is deployed, replace the placeholder above with your actual URL.
-
----
 
 ## 🔗 GitHub Repository
 
-**Repository:**
+**Repository:https://github.com/likhith22-bot/House_price_using_flask**
 
-> 🔗 **[ADD YOUR GITHUB REPOSITORY LINK HERE]**
+> 🔗 ****
 
 ---
 
